@@ -1,0 +1,24 @@
+header {
+    background-color: #333;
+    text-align: center;
+    padding: 10px;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    color: white;
+}
+
+nav {
+    text-align: center;
+   
+}
+.menu{
+    display: inline-block;
+    margin: 0 10px; 
+    color: white;
+}
